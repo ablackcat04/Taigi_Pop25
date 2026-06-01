@@ -9,10 +9,6 @@
 
 ## Examples
 
-[01_001.wav](examples/01_001.wav)
+<video src="https://github.com/ablackcat04/Taigi_Pop25/assets/01_001.mp4" controls title="點擊播放音訊"></video>
 
-![img_3.png](assets/01_001.png)
-
-[04_001.wav](examples/04_001.wav)
-
-![img.png](assets/04_001.png)
+<video src="https://github.com/ablackcat04/Taigi_Pop25/assets/04_001.mp4" controls title="點擊播放音訊"></video>
