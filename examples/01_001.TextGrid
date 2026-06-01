@@ -1,0 +1,142 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 5.807712
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "Sentence"
+		xmin = 0
+		xmax = 5.807712
+		intervals: size = 1
+			intervals [1]:
+				xmin = 0
+				xmax = 5.807712
+				text = "今夜冷風酸雨來陪伴"
+	item [2]:
+		class = "IntervalTier"
+		name = "Word"
+		xmin = 0
+		xmax = 5.807712
+		intervals: size = 10
+			intervals [1]:
+				xmin = 0
+				xmax = 1.657144
+				text = "今"
+			intervals [2]:
+				xmin = 1.657144
+				xmax = 2.780046
+				text = "夜"
+			intervals [3]:
+				xmin = 2.780046
+				xmax = 2.985035
+				text = "冷"
+			intervals [4]:
+				xmin = 2.985035
+				xmax = 3.166441
+				text = "風"
+			intervals [5]:
+				xmin = 3.166441
+				xmax = 3.613605
+				text = "酸"
+			intervals [6]:
+				xmin = 3.613605
+				xmax = 3.993652
+				text = "雨"
+			intervals [7]:
+				xmin = 3.993652
+				xmax = 4.327439
+				text = "來"
+			intervals [8]:
+				xmin = 4.327439
+				xmax = 4.424492
+				text = "SP"
+			intervals [9]:
+				xmin = 4.424492
+				xmax = 4.820861
+				text = "陪"
+			intervals [10]:
+				xmin = 4.820861
+				xmax = 5.807712
+				text = "伴"
+	item [3]:
+		class = "IntervalTier"
+		name = "Phoneme"
+		xmin = 0
+		xmax = 5.807712
+		intervals: size = 18
+			intervals [1]:
+				xmin = 0
+				xmax = 0.04263
+				text = "k"
+			intervals [2]:
+				xmin = 0.04263
+				xmax = 1.657144
+				text = "im"
+			intervals [3]:
+				xmin = 1.657144
+				xmax = 2.780046
+				text = "ia"
+			intervals [4]:
+				xmin = 2.780046
+				xmax = 2.821769
+				text = "l"
+			intervals [5]:
+				xmin = 2.821769
+				xmax = 2.985035
+				text = "ing"
+			intervals [6]:
+				xmin = 2.985035
+				xmax = 3.044898
+				text = "h"
+			intervals [7]:
+				xmin = 3.044898
+				xmax = 3.166441
+				text = "ong"
+			intervals [8]:
+				xmin = 3.166441
+				xmax = 3.31338
+				text = "s"
+			intervals [9]:
+				xmin = 3.31338
+				xmax = 3.613605
+				text = "ng"
+			intervals [10]:
+				xmin = 3.613605
+				xmax = 3.709753
+				text = "h"
+			intervals [11]:
+				xmin = 3.709753
+				xmax = 3.993652
+				text = "oo"
+			intervals [12]:
+				xmin = 3.993652
+				xmax = 4.063492
+				text = "l"
+			intervals [13]:
+				xmin = 4.063492
+				xmax = 4.327439
+				text = "ai"
+			intervals [14]:
+				xmin = 4.327439
+				xmax = 4.424492
+				text = "SP"
+			intervals [15]:
+				xmin = 4.424492
+				xmax = 4.450794
+				text = "p"
+			intervals [16]:
+				xmin = 4.450794
+				xmax = 4.820861
+				text = "ue"
+			intervals [17]:
+				xmin = 4.820861
+				xmax = 4.877099
+				text = "ph"
+			intervals [18]:
+				xmin = 4.877099
+				xmax = 5.807712
+				text = "uann"
