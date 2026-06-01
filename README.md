@@ -9,6 +9,6 @@
 
 ## Examples
 
-<video src="https://github.com/ablackcat04/Taigi_Pop25/assets/01_001.mp4" controls title="點擊播放音訊"></video>
+https://github.com/user-attachments/assets/e9d8af9b-b56a-4ac5-ab87-7339a9da19d4
 
-<video src="https://github.com/ablackcat04/Taigi_Pop25/assets/04_001.mp4" controls title="點擊播放音訊"></video>
+https://github.com/user-attachments/assets/2e001172-b171-4acc-bcdf-c8fefd4bcca2
