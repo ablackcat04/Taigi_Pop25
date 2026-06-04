@@ -28,9 +28,13 @@ https://github.com/user-attachments/assets/2e001172-b171-4acc-bcdf-c8fefd4bcca2
 
 ## License
 本資料僅供非營利之學術研究與教育用途。
+
 應用範圍包括人工智慧模型訓練、歌聲合成相關研究、語音訊號處理實驗等。
+
 禁止製作任何具毀謗性、侮辱性或違反善良風俗之內容。 禁止商業營利、詐騙、廣告背書或任何損害錄音者人格權之行為。
+
 AI 標註：於發表研究成果或展示合成音訊時，應明確標註其為「AI 生成」，以防誤導。
+
 引用標註：任何使用本資料集之發表或研究成果，須標註引用 Taigi_Pop25。請引用官方 GitHub repository：https://github.com/ablackcat04/Taigi_Pop25
 
 
