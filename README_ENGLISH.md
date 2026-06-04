@@ -1,3 +1,5 @@
+[繁體中文](README.md) | [English](README_ENGLISH.md)
+
 ## What is Taigi_Pop25?
 
 Taigi_Pop25 is a Taiwanese-language singing dataset designed for singing voice synthesis systems. It contains 10 Taiwanese pop songs plus 1 supplementary track, all performed by a female singer.
