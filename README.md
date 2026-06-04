@@ -1,5 +1,4 @@
-# Taigi_Pop25
-台語精標歌唱資料集
+[繁體中文](README.md) | [English](README_ENGLISH.md)
 
 ## Taigi_Pop25 是什麼?
 
