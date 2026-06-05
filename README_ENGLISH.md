@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/2e001172-b171-4acc-bcdf-c8fefd4bcca2
 
 ![Phoneme Distribution](assets/Phoneme%20Distribution.png)
 
-![Pitch Distribution](assets/Pitch%20Distribution.png)
+![img.png](assets/Pitch%20Distribution.png)
 
 ## Contributors
 
