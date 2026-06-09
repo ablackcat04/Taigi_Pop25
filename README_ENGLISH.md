@@ -8,6 +8,8 @@ The total recording duration is approximately 38 minutes, with about 25 minutes 
 
 All recordings are manually annotated at the sentence, word, and phoneme levels. The dataset contains a total of 4,413 phoneme labels, covering all 17 initials and 68 finals in Taiwanese, encompassing the vast majority of Taiwanese singing contexts.
 
+Pitch annotation is in the midi format. All midi has bpm=120.
+
 ## Examples
 
 https://github.com/user-attachments/assets/e9d8af9b-b56a-4ac5-ab87-7339a9da19d4
