@@ -25,6 +25,11 @@ https://github.com/user-attachments/assets/2e001172-b171-4acc-bcdf-c8fefd4bcca2
 
 ## Contributors
 
+國立清華大學
+
+吳彥儒
+許安媺
+邱申翰
 
 ## License
 本資料僅供非營利之學術研究與教育用途。
